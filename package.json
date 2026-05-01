@@ -1,0 +1,7 @@
+{
+  "name": "realtime-chat-api",
+  "version": "1.0.0",
+  "description": "Lightweight real-time messaging API built on Vercel Edge Runtime",
+  "private": true,
+  "license": "MIT"
+}
